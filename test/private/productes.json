@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "nom": "Collaret per a gossos",
+      "preu": 15.99,
+      "descripció": "Collaret ajustable per a gossos de mida mitjana, fet amb materials resistents i còmodes.",
+      "imatge": "/public/imatges/collar.png"
+    },
+    {
+      "id": 2,
+      "nom": "Rascador per a gats",
+      "preu": 22.50,
+      "descripció": "Rascador vertical per a gats, ideal per a mantenir les ungles del teu gat saludables i evitar danys als mobles.",
+      "imatge": "/public/images/rascador_gats.jpg"
+    },
+    {
+      "id": 3,
+      "nom": "Menjadora automàtica per gossos",
+      "preu": 45.00,
+      "descripció": "Menjadora automàtica per gossos amb temporitzador, perfecte per controlar les porcions i els horaris de menjar.",
+      "imatge": "/public/images/menjadora_automatica.jpg"
+    },
+    {
+      "id": 4,
+      "nom": "Joguina interactiva per a gats",
+      "preu": 12.99,
+      "descripció": "Una joguina amb plomes i moviment automàtic, dissenyada per a mantenir els gats actius i entretinguts.",
+      "imatge": "/public/images/joguina_gats.jpg"
+    },
+    {
+      "id": 5,
+      "nom": "Llit còmode per a gossos",
+      "preu": 30.75,
+      "descripció": "Llit suau i còmode per a gossos de mida mitjana, ideal per a proporcionar-los un descans reparador.",
+      "imatge": "/public/images/llit_gossos.jpg"
+    }
+  ]
+  

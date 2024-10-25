@@ -1,0 +1,37 @@
+[
+    {
+        "nom": "Sputnik",
+        "any": 1957,
+        "pais": "Russia",
+        "descripcio": "El primer satèl·lit artificial",
+        "imatge": "/imatges/imatge.jpeg"
+    },
+    {
+        "nom": "Soyuz",
+        "any": 1966,
+        "pais": "Russia",
+        "descripcio": "El primer coet espacial tripulat",
+        "imatge": "/imatges/imatge.jpeg"
+    },
+    {
+        "nom": "Meteosat",
+        "any": 1977,
+        "pais": "Europa",
+        "descripcio": "El primer satèl·lit meteorològic",
+        "imatge": "/imatges/imatge.jpeg"
+    },
+    {
+        "nom": "Ariane",
+        "any": 1980,
+        "pais": "Europa",
+        "descripcio": "El primer coet espacial comercial",
+        "imatge": "/imatges/imatge.jpeg"
+    },
+    {
+        "nom": "Patata",
+        "any": 2019,
+        "pais": "Uganda",
+        "descripcio": "Uganda es un pais multicolor",
+        "imatge": "/443819ea-ff00-4b8e-9dba-9f32b12d7336.webp"
+    }
+]
